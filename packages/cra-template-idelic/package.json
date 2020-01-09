@@ -25,11 +25,5 @@
   "files": [
     "template",
     "template.json"
-  ],
-  "dependencies": {
-    "@emotion/react": "^11.0.0-next.10"
-  },
-  "devDependencies": {
-    "husky": "^4.0.3"
-  }
+  ]
 }

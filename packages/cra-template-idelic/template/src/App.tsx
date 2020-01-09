@@ -25,7 +25,7 @@ const logoStyle = css({
 
 const codeBlockStyle = css({
   backgroundColor: '#9baee140',
-  fontFamily: 'source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace',
+  fontFamily: 'source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace'
 });
 
 let GlobalTheme = composeTheme(false);
@@ -44,7 +44,7 @@ const App: FC = () => {
     flexDirection: 'column',
     fontSize: 'calc(10px + 2vmin)',
     justifyXontent: 'center',
-    minHeight: '100vh',
+    minHeight: '100vh'
   });
 
   const toggleTheme = (): void => {
