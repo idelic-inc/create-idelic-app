@@ -1,6 +1,5 @@
 /** @jsx jsx */
-import {css, jsx, keyframes} from '@emotion/react';
-import {ThemeProvider} from 'emotion-theming';
+import {css, jsx, keyframes, ThemeProvider} from '@emotion/react';
 import {FC, useState} from 'react';
 
 import {composeTheme} from './GlobalTheme';
