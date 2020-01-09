@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-idelic",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-idelic-project",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The Idelic template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idelic-inc/create-idelic-app.git",
+    "directory": "packages/cra-template-idelic"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/idelic-inc/create-idelic-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
